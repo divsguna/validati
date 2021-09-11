@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29381" started-at="2021-09-09T15:16:49 IST" finished-at="2021-09-09T15:17:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29381" started-at="2021-09-09T15:16:49 IST" finished-at="2021-09-09T15:17:19 IST">
+      <class name="DIVYA.Spicejet_Destination_Validation">
+        <test-method status="PASS" signature="openurl()[pri:0, instance:DIVYA.Spicejet_Destination_Validation@65e2dbf3]" name="openurl" is-config="true" duration-ms="17483" started-at="2021-09-09T15:16:49 IST" finished-at="2021-09-09T15:17:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method status="PASS" signature="Bhimavaram()[pri:1, instance:DIVYA.Spicejet_Destination_Validation@65e2dbf3]" name="Bhimavaram" duration-ms="10349" started-at="2021-09-09T15:17:07 IST" finished-at="2021-09-09T15:17:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bhimavaram -->
+        <test-method status="PASS" signature="f()[pri:1, instance:DIVYA.Spicejet_Destination_Validation@65e2dbf3]" name="f" duration-ms="221" started-at="2021-09-09T15:17:17 IST" finished-at="2021-09-09T15:17:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:DIVYA.Spicejet_Destination_Validation@65e2dbf3]" name="afterTest" is-config="true" duration-ms="1270" started-at="2021-09-09T15:17:18 IST" finished-at="2021-09-09T15:17:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- DIVYA.Spicejet_Destination_Validation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
